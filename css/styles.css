@@ -479,6 +479,7 @@ textarea {
   flex-direction: column;
   max-width: 453px;
   max-height: 80px;
+  margin-left: auto;
 }
 
 .subscribe-text {
